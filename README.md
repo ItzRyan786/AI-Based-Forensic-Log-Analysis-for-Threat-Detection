@@ -1,4 +1,6 @@
 V Project Workflow 
+
+
 Step 1: System Overview (Dashboard)
 •	Launch the application, and you will land on the Dashboard by default. The system will load initial data (synthetic by default) to show the current security posture.
 <img width="900" height="319" alt="image" src="https://github.com/user-attachments/assets/1912b70a-a921-4616-b42a-1e5bfbef7282" />
